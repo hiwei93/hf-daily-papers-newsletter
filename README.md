@@ -9,3 +9,4 @@
 - [【2023-09-10】Huggingface 每日论文速览](./20230910-hf-daily-papers.md)
 - [【2023-09-11】Huggingface 每日论文速览](./20230911-hf-daily-papers.md)
 - [【2023-09-12】Huggingface 每日论文速览](./20230912-hf-daily-papers.md)
+- [【2023-09-13】Huggingface 每日论文速览](./20230913-hf-daily-papers.md)
