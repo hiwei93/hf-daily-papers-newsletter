@@ -16,3 +16,4 @@
 - [【2023-09-21】Huggingface 每日论文速览](./20230921-hf-daily-papers.md)
 - [【2023-09-22】Huggingface 每日论文速览](./20230922-hf-daily-papers.md)
 - [【2023-09-25】Huggingface 每日论文速览](./20230925-hf-daily-papers.md)
+- [【2023-09-26】Huggingface 每日论文速览](./20230926-hf-daily-papers.md)
